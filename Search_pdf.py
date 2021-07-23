@@ -3,7 +3,7 @@ import PyPDF2
 import os
 import pandas as pd
 import re
-
+import selenium
 
 path = "C:/Users/bdeaz/OneDrive/Documentos/Beli trabajo/IMF docs/"
 dirs = os.listdir(path)
