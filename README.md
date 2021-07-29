@@ -14,4 +14,4 @@ The tool is used in a specific example to create an SQL database with all Articl
 
 - "Search_pdf.py" - Python code to perform text searches in selected pdf documents and store relevant data to database.
 
-- "IMF pub database.ipynb" - Copy of colab project where all code is shown and with link to colab to run.
+- "IMF pub database.ipynb" - Copy of colab project where all code is shown and with link to colab to run. Includes link to a Power BI report that uses the newly created database.
