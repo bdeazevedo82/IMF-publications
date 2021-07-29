@@ -5,7 +5,7 @@ At the IMF webpage there is information on all IMF publications since 1980, almo
 
 In this respository you will find the Python code to scrape the site and create an SQL database with the data, making it easily available for my analysis once all necessary searches are performed.
 
-The tool is used in this example to create an SQL database with all Article IV reports by the IMF during the years 2007 and 2013. Data can then be used for building visualizations or other purposes.
+The tool is used in a specific example to create an SQL database with all Article IV reports by the IMF during the years 2007 and 2013. Data can then be used for analysis and building visualizations.
 
 ## Repository contains:
 - "IMF get all data.py" - Python code to create a SQL database of IMF publications, scraping the IMF web.
